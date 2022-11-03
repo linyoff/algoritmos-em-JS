@@ -1,2 +1,3 @@
-# algoritmos-em-JS
+# A0lgoritmos em JavaScript
+
 Exercícios e treino de algoritmos em JavaScript
